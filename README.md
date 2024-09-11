@@ -1,17 +1,19 @@
-Hi!
+Implementation of the calculator that operates with Arabic and Roman numbers
 
-This repository contains code of a calculator for Arabic and Roman numbers written in Golang.
+## Description
 
+The calculator can perform 4 operations with two numbers:
+- Addition: a + b;
+- Subtraction: a - b;
+- Multiplication: a * b;
+- Division: a / b.
 
+## Important notes
 
-The calculator can perform addition, subtraction, multiplication and division operations with two numbers: a + b, a - b, a * b, a / b.
-
-Numbers to calculate is transferred in one line. Solutions in which each number and arithmetic operation is passed from a new line are considered incorrect.
-
-The calculator can work with both Arabic (1,2,3,4,5…) and Roman (I,II,III,IV,V…) numbers.
-
-The calculator accepts input numbers from 1 to 10 inclusive, no more. At the output, the numbers are not limited in size and can be any.
-The calculator can only work with integers.
+- Numbers to calculate is transferred in one line;
+- The calculator can work with both Arabic (1,2,3,4,5…) and Roman (I,II,III,IV,V…) numbers. There can be an Arabic and a Roman number in one input line;
+- The calculator accepts input numbers from 1 to 10 inclusive. At the output, the numbers are not limited in size and can be any.
+- The calculator can only work with integers.
 
 The calculator can only work with Arabic or Roman numerals at the same time, when the user enters a string like 3 + II, the calculator indicates an error and stop working.
 
