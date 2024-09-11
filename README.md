@@ -1,3 +1,5 @@
+# calc_golang
+
 Implementation of the calculator that operates with Arabic and Roman numbers
 
 ## Description
