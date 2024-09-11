@@ -1,3 +1,3 @@
-module calc_golang_Kata
+module calc_golang
 
 go 1.19
